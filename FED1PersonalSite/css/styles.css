@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*!
 * Start Bootstrap - Resume v7.0.2 (https://startbootstrap.com/theme/resume)
 * Copyright 2013-2021 Start Bootstrap
@@ -8864,7 +8864,9 @@ textarea.form-control-lg {
   }
 
   .d-lg-block {
-    display: block !important;
+      display: block !important;
+      border-radius: 100px;
+      box-shadow: 4px 5px 5px #999;
   }
 
   .d-lg-grid {
