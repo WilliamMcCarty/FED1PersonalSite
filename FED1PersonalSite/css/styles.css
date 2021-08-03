@@ -11003,3 +11003,8 @@ section.resume-section .resume-section-content {
 .footer-style {
     text-align: center;
 }
+
+.resumeTable td{
+    padding: 3px;
+    vertical-align: top;
+}
