@@ -70,6 +70,7 @@
     <Content Include="contact.html" />
     <Content Include="css\styles.css" />
     <Content Include="favicon.ico" />
+    <Content Include="images\classmates\calebmitchell.jpg" />
     <Content Include="images\classmates\jacobroelofsz.jpg" />
     <Content Include="images\classmates\michaelrussell.jpg" />
     <Content Include="images\profilepic.jpg" />
