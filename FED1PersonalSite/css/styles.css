@@ -11007,7 +11007,7 @@ section.resume-section .resume-section-content {
     text-align: center;
 }
 
-.resumeTable td{    
+.resumeTable td {    
     padding: 3px;
     vertical-align: top;
 }
@@ -11021,4 +11021,17 @@ section.resume-section .resume-section-content {
     border: 0.3rem solid black;
     /*border: 0.5rem solid rgba(255, 255, 255, 0.2);*/
     box-shadow: 4px 5px 5px #999;
+}
+
+.classMemberLinks {
+    text-decoration-line: none;
+    font-size: 18px;
+}
+
+.classMemberName {
+    font-size: 34px;
+}
+
+.classMemberBio { 
+    font-size: 20px;
 }
