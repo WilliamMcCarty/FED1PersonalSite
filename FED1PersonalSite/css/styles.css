@@ -11001,6 +11001,8 @@ section.resume-section .resume-section-content {
 }
 
 .footer-style {
+    padding-top: 15px;
+    padding-bottom: 15px;
     font-style: italic;
     font-size: 18px;
     font-weight: bold;
@@ -11020,7 +11022,7 @@ section.resume-section .resume-section-content {
     border-radius: 100px;
     border: 0.3rem solid black;
     /*border: 0.5rem solid rgba(255, 255, 255, 0.2);*/
-    box-shadow: 4px 5px 5px #999;
+    box-shadow: 7px 5px 5px #999;
 }
 
 .classMemberLinks {
@@ -11032,6 +11034,10 @@ section.resume-section .resume-section-content {
     font-size: 34px;
 }
 
-.classMemberBio { 
+.classMemberBio {
     font-size: 20px;
+}
+
+.textShadow {
+    text-shadow: 2px 4px 5px darkgray;
 }
