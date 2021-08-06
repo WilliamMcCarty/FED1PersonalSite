@@ -11041,3 +11041,7 @@ section.resume-section .resume-section-content {
 .textShadow {
     text-shadow: 2px 4px 5px darkgray;
 }
+
+.technicalSkillsP {
+    font-size: 20px;
+}
