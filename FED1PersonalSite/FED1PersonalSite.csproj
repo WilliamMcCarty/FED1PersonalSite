@@ -76,6 +76,7 @@
     <Content Include="images\classmates\michaelrussell.jpg" />
     <Content Include="images\profilepic.jpg" />
     <Content Include="index.html" />
+    <Content Include="js\jquery.js" />
     <Content Include="js\main.js" />
     <Content Include="js\scripts.js" />
     <Content Include="links.html" />

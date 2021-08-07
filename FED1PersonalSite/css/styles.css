@@ -11014,7 +11014,7 @@ section.resume-section .resume-section-content {
     vertical-align: top;
 }
 
-.thumb {
+/*.thumb {
     width: 100%;
     max-width: 180px;
     float: left;
@@ -11022,8 +11022,8 @@ section.resume-section .resume-section-content {
     border-radius: 100px;
     border: 0.3rem solid black;
     /*border: 0.5rem solid rgba(255, 255, 255, 0.2);*/
-    box-shadow: 7px 5px 5px #999;
-}
+    /*box-shadow: 7px 5px 5px #999;
+}*/
 
 .classMemberLinks {
     text-decoration-line: none;
@@ -11044,4 +11044,45 @@ section.resume-section .resume-section-content {
 
 .technicalSkillsP {
     font-size: 20px;
+}
+
+/*********************************************             Custom Lightbox**********************************************/
+
+.thumb {
+    cursor: pointer;
+    width: 100%;
+    max-width: 180px;
+    float: left;
+    margin: 0 40px 20px 0;
+    border-radius: 100px;
+    border: 0.3rem solid black;
+    /*border: 0.5rem solid rgba(255, 255, 255, 0.2);*/
+    box-shadow: 7px 5px 5px #999;
+}
+
+#lightbox-container {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
+    padding-top: 65px;
+    display: none;
+}
+
+    #lightbox-container p {
+        color: #fff;
+    }
+
+#lightbox-content img {
+    border: 10px solid black;
+    margin: auto;
+    border-radius: 100px;
+    box-shadow: 7px 5px 5px gray;
+}
+
+.lightBoxClick {
+    font-size:20px;
 }
