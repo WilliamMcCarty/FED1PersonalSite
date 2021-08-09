@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="contact.html" />
+    <Content Include="css\flickity.css" />
     <Content Include="css\styles.css" />
     <Content Include="favicon.ico" />
     <Content Include="images\projects\ByteBrothersPic.jpg" />
@@ -76,6 +77,7 @@
     <Content Include="images\classmates\michaelrussell.jpg" />
     <Content Include="images\profilepic.jpg" />
     <Content Include="index.html" />
+    <Content Include="js\flickity.pkgd.js" />
     <Content Include="js\jquery.js" />
     <Content Include="js\main.js" />
     <Content Include="js\scripts.js" />
