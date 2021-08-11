@@ -78,6 +78,7 @@
     <Content Include="images\classmates\jacobroelofsz.jpg" />
     <Content Include="images\classmates\michaelrussell.jpg" />
     <Content Include="images\profilepic.jpg" />
+    <Content Include="images\projects\dungeonapplication.jpg" />
     <Content Include="index.html" />
     <Content Include="js\flickity.pkgd.js" />
     <Content Include="js\jquery.js" />
