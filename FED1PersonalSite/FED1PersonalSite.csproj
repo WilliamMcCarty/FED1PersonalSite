@@ -71,6 +71,8 @@
     <Content Include="css\flickity.css" />
     <Content Include="css\styles.css" />
     <Content Include="favicon.ico" />
+    <Content Include="images\classmates\amandaallen.jpg" />
+    <Content Include="images\classmates\ashleysmith.jpg" />
     <Content Include="images\projects\ByteBrothersPic.jpg" />
     <Content Include="images\classmates\calebmitchell.jpg" />
     <Content Include="images\classmates\jacobroelofsz.jpg" />
