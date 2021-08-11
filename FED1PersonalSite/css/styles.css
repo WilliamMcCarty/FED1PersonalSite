@@ -11050,6 +11050,10 @@ section.resume-section .resume-section-content {
     font-size: 20px;
 }
 
+.noUnderLine {
+    text-decoration: none;
+}
+
 /*********************************************             Custom Lightbox**********************************************/
 
 .thumb {
