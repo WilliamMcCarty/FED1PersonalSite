@@ -11786,3 +11786,9 @@ section.resume-section {
     box-shadow: 5px 5px 5px #999;
     border-radius: 20px;
 }
+
+.img-responsive-lightBox {
+    display: block;
+    max-width: 80%;
+    height: auto;
+}
