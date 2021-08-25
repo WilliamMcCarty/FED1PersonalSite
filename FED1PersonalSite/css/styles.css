@@ -11781,7 +11781,8 @@ section.resume-section {
 
 .projectImage {
     height: 290px;
-    width: 440px;
+    width: 100%;
+    max-width: 440px;
     float: left;
     box-shadow: 5px 5px 5px #999;
     border-radius: 20px;
