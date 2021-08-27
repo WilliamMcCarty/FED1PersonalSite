@@ -80,6 +80,7 @@
     <Content Include="images\classmates\michaelrussell.jpg" />
     <Content Include="images\profilepic.jpg" />
     <Content Include="images\projects\dungeonapplication.jpg" />
+    <Content Include="images\projects\heidisite.JPG" />
     <Content Include="images\projects\mmgifts.jpg" />
     <Content Include="index.html" />
     <Content Include="js\flickity.pkgd.js" />
