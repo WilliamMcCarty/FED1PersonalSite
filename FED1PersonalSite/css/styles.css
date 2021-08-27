@@ -11780,7 +11780,8 @@ section.resume-section {
 
 
 .projectImage {
-    height: 290px;
+    height: 100%;
+    max-height: 290px;
     width: 100%;
     max-width: 440px;
     float: left;
@@ -11790,7 +11791,8 @@ section.resume-section {
 
 .img-responsive-lightBox {
     display: block;
-    max-width: 80%;
+    width: 100%;
+    max-width: 300px;
     height: auto;
 }
 
