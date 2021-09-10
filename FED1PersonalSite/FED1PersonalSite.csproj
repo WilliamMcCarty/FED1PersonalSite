@@ -97,7 +97,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <Content Include="resume\William %27Bill%27 McCarty - Resume IT.pdf" />
+    <Content Include="resume\William %27Bill%27 McCarty Resume IT.pdf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
